@@ -51,8 +51,8 @@ MindGuardAI is a streaming, extensible transcription and memory assistant applic
 ### 2. Clone the Repository
 
 ```sh
-git clone https://github.com/srinjoydutta03/mindguardai.git
-cd mindguard
+git clone https://github.com/srinjoydutta03/MindGuardAI.git
+cd MindGuardAI
 ```
 
 ### 3. Activate your virtual environment
