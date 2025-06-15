@@ -28,7 +28,7 @@ MindGuardAI is a streaming, extensible transcription and memory assistant applic
 
 ## Requirements
 
-- **Python 3.11.9** 
+- **Python 3.11.9 (x86)** 
 - **Windows 11 (Snapdragon X Elite)** 
 - **Memory (32 GB)**
 - **Neo4j** (local instance, e.g. via [Neo4j Desktop](https://neo4j.com/download/) or via docker)
@@ -125,4 +125,4 @@ This will launch a Tkinter GUI for manual memory entry and a button to start liv
 
 ## References
 
-This project is built on top of [Simple-Whisper-Transcription](https://github.com/thatrandomfrenchdude/simple-whisper-transcription). Many thanks to Nick for the head start.
+This project is built on top of [Simple-Whisper-Transcription](https://github.com/thatrandomfrenchdude/simple-whisper-transcription). Many thanks to Nick for the headstart and the repository guide.
