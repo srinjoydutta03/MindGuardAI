@@ -4,6 +4,8 @@ MindGuardAI is a streaming, extensible transcription and memory assistant applic
 
 For details on technical implementation: [Technical Details](https://github.com/srinjoydutta03/MindGuardAI/blob/d86152f56e5d81ccd82ab4800ff85db056f4e4c2/src/README.md)
 
+Developed by: Srinjoy Dutta (srinjoydutta03@gmail.com)
+
 ---
 
 ## Features
